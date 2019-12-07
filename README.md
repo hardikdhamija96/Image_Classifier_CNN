@@ -1,5 +1,5 @@
 # Image_Classifier_CNN
-Multiclass image classification project using Convolutional Neural Networks and TensorFlow
+Multiclass image classification project using Convolutional Neural Networks with TensorFlow
 
 # Data
 This is a repository containing datasets of 5200 training images of 4 classes and 1267 testing images.No problematic image
